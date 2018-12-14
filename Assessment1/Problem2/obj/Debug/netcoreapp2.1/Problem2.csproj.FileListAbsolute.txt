@@ -1,0 +1,11 @@
+E:\Training\Assessment1\Problem2\bin\Debug\netcoreapp2.1\Problem2.deps.json
+E:\Training\Assessment1\Problem2\bin\Debug\netcoreapp2.1\Problem2.runtimeconfig.json
+E:\Training\Assessment1\Problem2\bin\Debug\netcoreapp2.1\Problem2.runtimeconfig.dev.json
+E:\Training\Assessment1\Problem2\bin\Debug\netcoreapp2.1\Problem2.dll
+E:\Training\Assessment1\Problem2\bin\Debug\netcoreapp2.1\Problem2.pdb
+E:\Training\Assessment1\Problem2\obj\Debug\netcoreapp2.1\Problem2.csprojAssemblyReference.cache
+E:\Training\Assessment1\Problem2\obj\Debug\netcoreapp2.1\Problem2.csproj.CoreCompileInputs.cache
+E:\Training\Assessment1\Problem2\obj\Debug\netcoreapp2.1\Problem2.AssemblyInfoInputs.cache
+E:\Training\Assessment1\Problem2\obj\Debug\netcoreapp2.1\Problem2.AssemblyInfo.cs
+E:\Training\Assessment1\Problem2\obj\Debug\netcoreapp2.1\Problem2.dll
+E:\Training\Assessment1\Problem2\obj\Debug\netcoreapp2.1\Problem2.pdb

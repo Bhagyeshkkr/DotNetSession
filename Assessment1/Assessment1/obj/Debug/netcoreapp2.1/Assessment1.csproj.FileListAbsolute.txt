@@ -1,0 +1,11 @@
+E:\Training\Assessment1\Assessment1\bin\Debug\netcoreapp2.1\Assessment1.deps.json
+E:\Training\Assessment1\Assessment1\bin\Debug\netcoreapp2.1\Assessment1.runtimeconfig.json
+E:\Training\Assessment1\Assessment1\bin\Debug\netcoreapp2.1\Assessment1.runtimeconfig.dev.json
+E:\Training\Assessment1\Assessment1\bin\Debug\netcoreapp2.1\Assessment1.dll
+E:\Training\Assessment1\Assessment1\bin\Debug\netcoreapp2.1\Assessment1.pdb
+E:\Training\Assessment1\Assessment1\obj\Debug\netcoreapp2.1\Assessment1.csprojAssemblyReference.cache
+E:\Training\Assessment1\Assessment1\obj\Debug\netcoreapp2.1\Assessment1.csproj.CoreCompileInputs.cache
+E:\Training\Assessment1\Assessment1\obj\Debug\netcoreapp2.1\Assessment1.AssemblyInfoInputs.cache
+E:\Training\Assessment1\Assessment1\obj\Debug\netcoreapp2.1\Assessment1.AssemblyInfo.cs
+E:\Training\Assessment1\Assessment1\obj\Debug\netcoreapp2.1\Assessment1.dll
+E:\Training\Assessment1\Assessment1\obj\Debug\netcoreapp2.1\Assessment1.pdb
